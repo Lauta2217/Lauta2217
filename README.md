@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @Lauta2217     
 - 👀 I’m interested in  trabajar para una empresa como programador  
-- 🌱 I’m currently learning  a desarrollar paginas webs 
 - 💞️ I’m looking to collaborate on ...   
 - 📫 How to reach me lautarogarcia94@gmail.com
 
