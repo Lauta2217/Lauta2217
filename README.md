@@ -26,11 +26,26 @@ Desarrollo integral de una plataforma web diseñada para centralizar y facilitar
 
 ---
 
+###  Proyecto Destacado: Elite Club
+
+**Plataforma Web y Sistema de Gestión de Accesos** |  [eliteclub.com.ar](https://eliteclub.com.ar/)
+
+Desarrollo de la plataforma web principal e implementación de un sistema de control de ingresos y automatización de accesos.
+
+* **Desarrollo Web:** Diseño e implementación del sitio web institucional.
+* **Gestión de Datos & Ingresos:** Sistema centralizado para administración de datos de usuarios y registro de accesos.
+* **Generación de Tickets:** Módulo automatizado para la emisión y validación de comprobantes/tickets.
+
+---
+
 ###  Otros Proyectos Destacados
 
-* **Sistemas de Gestión (Mutual UNSJ / Elite Club):** Plataformas integrales con control de ingresos, registro de pagos, operaciones administrativas, CRUD de usuarios y generación automatizada de tickets.
+* **Sistema de Gestión Mutual UNSJ:** Desarrollo del portal web ([mutualunsj.org.ar/nuevaweb](https://mutualunsj.org.ar/nuevaweb/#inicio)) y sistema integral para administración de camping (control de ingreso, registro de pagos, gestión operativa y CRUD de usuarios).
 * **Sistema POS/ERP:** Aplicación comercial con integración de facturación electrónica (API ARCA) utilizando Node.js, React, Tailwind CSS y PostgreSQL.
 * **Desarrollo Institucional:** Diseño y creación de la web principal para [Excellence CEI](https://excellencecei.com/).
+* **Proyectos Académicos Avanzados:**
+  * Análisis gramatical y tabla de símbolos para un **Compilador Z#** utilizando COMPI en C#.
+  * Optimización de tiempos de ejecución y reducción de hilos mediante **OpenMP** en C/C++.
 * **Sistema de Gestión de Presupuestos:** Aplicación de escritorio en Python/Tkinter con integración FPDF para generación automatizada de reportes.
 
 ---
