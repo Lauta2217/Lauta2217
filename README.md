@@ -45,4 +45,4 @@ Contacto
 
     Email: lautarogarcia94@gmail.com
 
-    LinkedIn: Perfil de LinkedIn
+    LinkedIn: www.linkedin.com/in/lautaro-lópez-49a5861a3
